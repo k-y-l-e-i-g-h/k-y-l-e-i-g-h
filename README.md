@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 
-  Phone: 415-847-3840  |  
-  Email: sudlow.kyleigh@gmail.com  |  
+  Phone: 415-847-3840    
+  Email: sudlow.kyleigh@gmail.com    
   LinkedIn: https://www.linkedin.com/in/kyleigh-sudlow-5510281b7/
   
 - 😄 Pronouns: she / her

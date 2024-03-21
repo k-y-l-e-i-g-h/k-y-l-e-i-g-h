@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kyleigh!
-- 👀 I’m interested in developing crreative projects and turnign in my HW on time :p 
+- 👀 I’m interested in developing creative projects and turning my HW in on time :p 
 - 🌱 I’m currently learning UI Design, Databases, NLP and how to maximize my git!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:

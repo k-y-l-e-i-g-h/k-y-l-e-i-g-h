@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kyleigh!
-- 👀 I’m interested in developing creative projects and turning my HW in on time :p 
-- 🌱 I’m currently learning UI Design, Databases, NLP and how to maximize my git!
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing creative projects and turning my HW in on time...
+- 🌱 I’m currently learning Computer System Fundamentals and engineering for Puberry!
+- 💞️ I’m looking to collaborate on fun things
 - 📫 How to reach me:
 
   Phone: 415-847-3840    

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kyleigh!
 - 👀 I’m interested in developing creative projects and turning my HW in on time...
-- 🌱 I’m currently learning Computer System Fundamentals and engineering for Puberry!
+- 🌱 I’m currently learning Computer System Fundamentals and developing a webapp for Puberry!
 - 💞️ I’m looking to collaborate on fun things
 - 📫 How to reach me:
 

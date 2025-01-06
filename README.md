@@ -9,4 +9,3 @@
   LinkedIn: https://www.linkedin.com/in/kyleigh-sudlow-5510281b7/
   
 - 😄 Pronouns: she / her
-- ⚡ Fun fact: I was a professional ballet dancer beofre pursing CS at Columbia GS 
